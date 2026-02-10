@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Bianchin Mazzer</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A passionate Front-end developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Sport field reservation platform](https://github.com/danmera1980/PF-Reserva-Canchas)
-
-- 🌱 I’m currently learning **Full stack Development**
+- 🔭 I’m currently working on Wirall
 
 - 📫 How to reach me **matias.bianchin@gmail.com**
 
