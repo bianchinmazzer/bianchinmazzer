@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Bianchin Mazzer</h1>
 <h3 align="center">A passionate Front-end developer from Argentina</h3>
 
-- 🔭 I’m currently working on Wirall
+- 🔭 I’m currently working at Wirall
 
 - 📫 How to reach me **matias.bianchin@gmail.com**
 
